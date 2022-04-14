@@ -4,7 +4,7 @@ name = "ethan"
 location = "colorado"
 favorite_drink = "Fanta"
 # these are the Integers I will use
-# these integers consists of age and wieght which both have no decimals
+# these integers consists of age and weight which both have no decimals
 age = 22
 weight = 145
 # these are the floats I will use. font_size and money_on_hand which have decimals
