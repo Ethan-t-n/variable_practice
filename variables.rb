@@ -16,5 +16,5 @@ hates_music = false
 owns_pet = true
 # reassigning strings here which are just name, age, and favorite_drink
 name = "john"
-location = "california"
+location = "New York"
 favorite_drink = "coke"
