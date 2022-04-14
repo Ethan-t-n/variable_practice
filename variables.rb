@@ -17,4 +17,4 @@ owns_pet = true
 # reassigning strings here which are just name, age, and favorite_drink
 name = "john"
 location = "california"
-favorite_drink = "pepsi"
+favorite_drink = "coke"
