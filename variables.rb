@@ -2,7 +2,7 @@
 # the strings have variables that are name, age, and favorite_drink
 name = "ethan"
 location = "colorado"
-favorite_drink = "Fanta"
+favorite_drink = "dr.pepper"
 # these are the Integers I will use
 # these integers consists of age and weight which both have no decimals
 age = 22
